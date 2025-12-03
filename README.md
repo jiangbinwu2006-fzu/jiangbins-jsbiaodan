@@ -1,1 +1,3 @@
 # jiangbins-jsbiaodan
+这里是jb的js学习之路
+不定期更新最新进展...
